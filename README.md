@@ -57,7 +57,7 @@ On selecting a particular item, the region wise POS is displayed which further d
 The entirety of the interaction a customer has with a company and its products. Understanding the Customer Experience (CEX) is an integral part of customer relationship management. The overall experience reflects how the customer feels about the company and its offerings. Surveys, feedback forms and other data collection techniques help a company to determine the customer experience.
 As per the user choice of month and year, the net CEX is displayed for that particular month and year which further drills down to region wise CEX.
 
-5.	Unit Activation/ Recharging Outlets:
+5.	Unit Activation/ Recharging Outlets :
 The total number of Unit Activations and Recharging Outlets is displayed grouped by Region of the present and last two months.
 
 6.	Primary/ Secondary Recharges:
