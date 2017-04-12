@@ -3,10 +3,14 @@
 //selecting the json for recharges
 include("../Primary/json_pos.php");
 //retrieving system date
-$date1=date("Y/m/d");
+//$date1=date("Y/m/d");
+//$time=strtotime($date1);
+//$Month=(int)date("m",$time);
+//$Year=(int)date("Y",$time);
+$date1=2017/01/01;
 $time=strtotime($date1);
-$Month=(int)date("m",$time);
-$Year=(int)date("Y",$time);
+$Month=1;
+$Year=2017;
 $Year1=$Year;
 $Year2=$Year;
 //finding out the previous two months
