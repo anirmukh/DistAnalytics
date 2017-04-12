@@ -3,10 +3,14 @@
 //including ths json required for the data
 include("../Activation/json_pos.php");
 //retrieving the system date
-$date1=date("Y/m/d");
+//$date1=date("Y/m/d");
+//$time=strtotime($date1);
+//$Month=(int)date("m",$time);
+//$Year=(int)date("Y",$time);
+$date1=2017/01/01;
 $time=strtotime($date1);
-$Month=(int)date("m",$time);
-$Year=(int)date("Y",$time);
+$Month=01;
+$Year=2017;
 //finding the date for last two months
 $Year1=$Year;
 $Year2=$Year;
