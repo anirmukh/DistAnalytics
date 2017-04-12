@@ -5,9 +5,12 @@ if(!isset($_SESSION['logged_in']))
 //else
     redirect("../login/login.php");
 //Deriving the system date
-$sys=date("Y-m-d");
-$month=date("m");
-$year=date("Y");
+//$sys=date("Y-m-d");
+//$month=date("m");
+//$year=date("Y");
+$sys=2017-01-01;
+$month=01;
+$year=2017;
 //KPIs will be displayed with data w.r.t. to the last month
 if($month==1)
 {
