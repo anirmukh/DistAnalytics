@@ -3,10 +3,14 @@
 include("../MNP/json_pos.php");
 @ session_start();
 //retrieving system date
-$date1=date("Y/m/d");
+//$date1=date("Y/m/d");
+//$time=strtotime($date1);
+//$month=(int)date("m",$time);
+//$year=(int)date("Y",$time);
+$date1=2017/01/01;
 $time=strtotime($date1);
-$month=(int)date("m",$time);
-$year=(int)date("Y",$time);
+$month=01;
+$year=2017;
 $year1=$year;
 $year2=$year;
 //finding out the previous two months
