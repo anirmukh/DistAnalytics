@@ -150,6 +150,16 @@ function redirect($url)
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>
+                        <li>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>Frequent Item Sets<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="../HW/sample_kpi14.php">Apriori Algorithm</a>
+                                </li>
+                            
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
                     </ul>
                 </div>
                 <!-- /.sidebar-collapse -->

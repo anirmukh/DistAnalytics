@@ -1,0 +1,6 @@
+MinSup = 2
+Total T(C): 1.570518486E9 Nano seconds
+Total T(L): 1528421551 Nano seconds
+Total Time of Execution = 1571305632 nano seconds
+Frequent itemsets: 14
+Infrequent itemsets: 67
